@@ -1,4 +1,4 @@
-# Security Compliance Drift Scanner based on OpenSCAP
+# Security Compliance Drift Detector based on OpenSCAP
 
 ![ba180ee6-2ba7-4dd1-91fb-c60eba210498](https://github.com/user-attachments/assets/e2bd8752-db70-4e0a-b242-c055c5116882)
 
